@@ -4,7 +4,8 @@
 This is a project that I am working on to not only get better at 3d design, Python (no longer used), and C++, but it is also somthing I used to get better at GitHub. Feel free to leave a pull request if you have an improvment!
 
 # Required Hardware:
-## THE PRINTABLES 3D FILES ARE NOT MINE.
+### THE PRINTABLES 3D FILES ARE NOT MINE:
+https://www.printables.com/model/173882-single-key-mechanical-keyboard-qt-py
 ### The directly linked files are
 
 * [Seeeduino Xiao](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
